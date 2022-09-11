@@ -21,7 +21,7 @@ I am a Software Engineering student at the International University of Sarajevo.
 
 I'm interested in Full Stack Web Development.
 
-:mailbox: How to reach me: elhan.mahmutovic03@gmail.com || [![Linkedin Badge](https://img.shields.io/badge/-armeono-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elhan-mahmutovi%C4%87-015058250/)
+:mailbox: How to reach me: elhan.mahmutovic03@gmail.com || [![Linkedin Badge](https://img.shields.io/badge/-ElhanM-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elhan-mahmutovi%C4%87-015058250/)
 
 ---
 
