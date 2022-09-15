@@ -15,7 +15,7 @@
 
 I am a Software Engineering student at the International University of Sarajevo.
 
-I'm interested in Full-Stack Web Development.
+I'm interested in Full Stack Web Development.
 
 :mailbox: How to reach me: elhan.mahmutovic03@gmail.com
 
