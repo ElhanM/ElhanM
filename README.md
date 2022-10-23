@@ -40,6 +40,7 @@ I'm interested in Full Stack Web Development.
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" height="40"/>
   <!-- </br> -->
   <img src="https://mui.com/static/logo.png" title="MUI" alt="MUI" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" title="Postgres" alt="Postgres" height="40"/>
 </div>
 
 ---
