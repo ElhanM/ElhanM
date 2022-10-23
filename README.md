@@ -36,20 +36,10 @@ I'm interested in Full Stack Web Development.
   <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" title="React Query" alt="React Query" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" title="Yarn" alt="Yarn" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" height="40"/>
   <!-- </br> -->
-  <img src="https://pbs.twimg.com/profile_images/1413544188411482112/61xGHyIi_400x400.jpg" title="Netlify" alt="Netlify" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" height="40"/>
   <img src="https://mui.com/static/logo.png" title="MUI" alt="MUI" height="40"/>
-  <img src="https://freesvg.org/img/1548612994.png" title="Cookies" alt="Cookies" height="40"/>
-  <img src="https://miro.medium.com/max/480/1*qMC7g40mcQmeI3r-hMjY8Q.png" title="JWT" alt="JWT" height="40"/>
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" title="Styled Components" alt="Styled Components" height="40"/>
-  <img src="https://miro.medium.com/max/1400/0*WdefbD9guryDCuBj.png" title="React Router Dom" alt="React Router Dom" height="40"/>
 </div>
 
 ---
