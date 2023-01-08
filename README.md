@@ -20,7 +20,7 @@ I'm interested in Full Stack Web Development.
 
 ---
 
-### 💻 Some of the technologies I use:
+### 💻 Languages and Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" height="40"/>
@@ -39,10 +39,6 @@ I'm interested in Full Stack Web Development.
   <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" title="React Query" alt="React Query" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" height="40"/>
-  
-  
-  
-
 </div>
 
 ---
