@@ -10,13 +10,14 @@
 
 # Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-### :man_technologist: About me :
+<!-- ### :man_technologist: About me : -->
+### 👨‍💻 About me:
 
 I am a Software Engineering student at the International University of Sarajevo.
 
 I'm interested in Full Stack Web Development.
 
-:mailbox: How to reach me: elhan.mahmutovic03@gmail.com
+📫 How to reach me: elhan.mahmutovic03@gmail.com
 
 ---
 
