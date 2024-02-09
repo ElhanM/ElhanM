@@ -13,9 +13,9 @@
 <!-- ### :man_technologist: About me : -->
 ### 👨‍💻 About me:
 
-I am a Software Engineering student at the International University of Sarajevo.
+I am a Software Engineering student at the International University of Sarajevo and a Junior Software Engineer at Info Studio.
 
-I'm interested in Full Stack Web Development.
+I do Full Stack Web Development.
 
 📫 How to reach me: elhan.mahmutovic03@gmail.com
 
